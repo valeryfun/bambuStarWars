@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://bambuStarWars:p@ssw0rd123@bambustarwars.32hdv.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secrettoken"
+}
